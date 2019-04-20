@@ -1,10 +1,11 @@
 ## Last Week's Accomplishments
 
-> Test our database in firebase
+> Test our database in firebase.
 
 ## This Week's Plan
 
-> Try to use python to access data from database.
+> Learn how to use python accessing data from database.
+
 
 ## Anything Blocking?
 

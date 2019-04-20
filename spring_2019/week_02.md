@@ -1,7 +1,7 @@
 ## Last Week's Accomplishments
 
 > Understood the logic of the program.
-> Talked about the future goal with team members
+> Discussed about the future goal with team members
 
 ## This Week's Plan
 
